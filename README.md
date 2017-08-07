@@ -2,7 +2,7 @@
 A WordPress plugin to manage your wordpress core, plugin and theme updates.
 
 ## Watch Video Tutorial
-[![Sample](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Sample](http://img.youtube.com/vi/_AeUZUDBUXU/0.jpg)](https://www.youtube.com/watch?v=_AeUZUDBUXU)
 
 ## What you can do with this plugin
 + Disable all automatic updates
